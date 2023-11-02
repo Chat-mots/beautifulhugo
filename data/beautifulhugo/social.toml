@@ -53,6 +53,12 @@ title = "Reddit"
 icon = "fab fa-reddit-alien"
 
 [[social_icons]]
+id = "matrix"
+url = "https://matrix.to/#/%s"
+title = "[Matrix]"
+icon = "fas fa-th-large"
+
+[[social_icons]]
 id = "linkedin"
 url = "https://linkedin.com/in/%s"
 title = "LinkedIn"
