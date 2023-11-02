@@ -5,6 +5,12 @@ title = "Email me"
 icon = "fas fa-envelope"
 
 [[social_icons]]
+id = "bluesky"
+url = "https://bsky.app/profile/%s"
+title = "Bluesky"
+icon = "fab fa-twitter"
+
+[[social_icons]]
 id = "facebook"
 url = "https://www.facebook.com/%s"
 title = "Facebook"
